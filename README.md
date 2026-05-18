@@ -30,6 +30,12 @@ https://your-vercel-link.vercel.app/
 
 ---
 
+## 📸 Preview
+
+![To-Do List Preview](assets/images/preview.png)
+
+---
+
 ## 📂 Project Structure
 
 todo-list-app
