@@ -1,16 +1,43 @@
-# To-Do List App
+# 📝 To-Do List App
 
-A simple and responsive To-Do List application built using HTML, CSS, and JavaScript.
+A modern and responsive To-Do List application built using HTML, CSS, and JavaScript.
 
-## Features
+## 🚀 Live Demo
+
+https://your-vercel-link.vercel.app/
+
+---
+
+## ✨ Features
 
 - Add tasks
 - Delete tasks
 - Mark tasks as completed
+- Local storage support
+- Task counter
+- Clear all tasks
 - Responsive design
+- Smooth animations
+- Modern dark UI
 
-## Tech Stack
+---
 
-- HTML
-- CSS
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
 - JavaScript
+
+---
+
+## 📂 Project Structure
+
+todo-list-app
+
+- assets
+  - images
+
+- index.html
+- style.css
+- script.js
+- README.md
