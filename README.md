@@ -41,3 +41,10 @@ todo-list-app
 - style.css
 - script.js
 - README.md
+
+
+ ---
+
+## 👨‍💻 Author
+
+Divya Prasoon
